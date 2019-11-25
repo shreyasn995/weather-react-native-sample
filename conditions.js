@@ -14,7 +14,7 @@ export const weatherConditions = {
     Thunderstorm: {
       color: '#616161',
       title: 'A Storm is coming',
-      subtitle: 'Because Gods are angry',
+      subtitle: 'Time to find shelter',
       icon: 'weather-lightning'
     },
     Clouds: {
@@ -38,7 +38,7 @@ export const weatherConditions = {
     Haze: {
       color: '#66A6FF',
       title: 'Haze',
-      subtitle: 'Another name for Partial Raining',
+      subtitle: 'Can you see me?',
       icon: 'weather-hail'
     },
     Mist: {

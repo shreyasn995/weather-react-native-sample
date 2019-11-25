@@ -9,8 +9,7 @@ export default class App extends Component {
     isLoading: true,
 
     temperature: 0,
-    weatherCondition: null,
-    error: null
+    weatherCondition: null
   };
 
   componentDidMount() {
